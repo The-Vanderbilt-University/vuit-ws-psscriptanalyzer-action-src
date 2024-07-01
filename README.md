@@ -1,9 +1,6 @@
 # PSScriptAnalyzer Action
 Github action for running PSScriptAnalyzer and use ConvertToSARIF to generate a SARIF file.
 
-> **Note**
-This is a copy of [microsoft/psscriptanalyzer-action@v1.1](https://github.com/microsoft/psscriptanalyzer-action)
-
 >**Warning**
 This is a copy of [microsoft/psscriptanalyzer-action@v1.1](https://github.com/microsoft/psscriptanalyzer-action)
 
